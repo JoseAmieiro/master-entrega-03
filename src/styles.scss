@@ -1,0 +1,19 @@
+$background-color: green;
+
+h1 {
+    display: flex;
+    padding: 20px;
+    color: yellowgreen;
+    background-color: $background-color;
+    justify-content: center;
+}
+
+#imgContainer {
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+}
+
+img {
+  width: 250px;
+}
